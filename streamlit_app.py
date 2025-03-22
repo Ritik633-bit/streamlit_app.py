@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import joblib  # To load the trained model
+import joblib  
 import numpy as np
 
 # Load the trained model
